@@ -1,0 +1,34 @@
+ Volume in drive C is OS
+ Volume Serial Number is F247-D394
+
+ Directory of C:\Users\Aiswarya
+
+18-12-2023  11:19    <DIR>          .
+18-12-2023  11:19    <DIR>          ..
+30-06-2023  11:40    <DIR>          .cache
+26-03-2023  11:00    <DIR>          .eclipse
+12-08-2023  10:14    <DIR>          .lemminx
+15-12-2023  12:17    <DIR>          .p2
+09-08-2023  17:05    <DIR>          3D Objects
+26-09-2019  21:30    <DIR>          adjw.c
+26-03-2023  17:52    <DIR>          aishu
+09-08-2023  17:05    <DIR>          Contacts
+15-12-2023  11:11    <DIR>          Desktop
+09-08-2023  17:05    <DIR>          Documents
+18-12-2023  11:04    <DIR>          Downloads
+25-08-2023  11:52    <DIR>          eclipse
+13-08-2023  09:52    <DIR>          eclipse-workspace
+09-08-2023  17:05    <DIR>          Favorites
+09-08-2023  17:05    <DIR>          Links
+09-08-2023  17:05    <DIR>          Music
+22-08-2020  10:27    <DIR>          nbnin
+23-03-2021  10:23    <DIR>          OneDrive
+31-08-2023  10:51    <DIR>          Pictures
+08-10-2023  12:57    <DIR>          Postman
+27-09-2019  18:40    <DIR>          pro.c
+09-08-2023  17:05    <DIR>          Saved Games
+09-08-2023  17:05    <DIR>          Searches
+18-12-2023  11:19                 0 test1.txt
+13-08-2023  12:23    <DIR>          Videos
+               1 File(s)              0 bytes
+              26 Dir(s)  67,927,941,120 bytes free
